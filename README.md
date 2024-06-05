@@ -23,7 +23,6 @@
 - **Vuex** pour la gestion de l'état
 - **Bootstrap** pour le design réactif
 - **PHPUnit** pour les tests unitaires en PHP
-- **Jest** pour les tests JavaScript
 
 ### Gestion de Versions et Suivi de Problèmes
 - **Git** pour le contrôle de version
@@ -48,7 +47,10 @@
 1. Clonez le dépôt
     \`\`\`bash
     git clone https://github.com/votre-utilisateur/make-your-sandwich.git
-    cd make-your-sandwich
+    \`\`\`
+1. Telecharger le fichier
+    \`\`\`bash
+    https://share.freepro.com/95f5c841-f397-4c95-8483-9a441ddceaf5
     \`\`\`
 
 2. Installez les dépendances du backend
@@ -116,19 +118,19 @@ make-your-sandwich/
 
 - **XAMPP** pour la gestion du serveur Apache et MySQL.
 - **Visual Studio Code** comme éditeur de code.
- 
+- **Postman** pour tester les API.
 
 ## Contribuer
 
 1. Fork le projet
-2. Créez votre branche de fonctionnalité  
-3. Commitez vos modifications  
-4. Poussez vers la branche  
+2. Créez votre branche de fonctionnalité (\`git checkout -b feature/AmazingFeature\`)
+3. Commitez vos modifications (\`git commit -m 'Add some AmazingFeature'\`)
+4. Poussez vers la branche (\`git push origin feature/AmazingFeature\`)
 5. Ouvrez une Pull Request
 
 ## Auteurs
 
-- [Votre Nom](https://github.com/Leda13003)
+- [Votre Nom](https://github.com/votre-utilisateur)
 
 ## Licence
 
